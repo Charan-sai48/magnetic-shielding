@@ -50,10 +50,15 @@ Active MRI systems generate strong magnetic fields (1.5-7 Tesla) so nearby sensi
 Shielded rooms using steel plates or mu-metal prevent field leakage<BR>
 The boundary conditions ensure flux stays within the shield walls<BR>
 
+![1-s2 0-S2214914724002216-gr1](https://github.com/user-attachments/assets/74d2d37c-e65a-484c-9340-89b5d015519c)
+
+
 ### Hard Disk Drives:
 Read/write heads are extremely sensitive to external magnetic fields<BR>
 Internal magnetic shields protect against stray fields from nearby components<BR>
 Prevents data corruption and ensures reliable operation<BR>
+![Schematic-of-a-spin-valve-head-structure-used-in-HDDs-A-spin-valve-read-sensor-stack-is](https://github.com/user-attachments/assets/6afd24c7-b1ad-485d-b31f-b87549afd664)
+
 
 ### Cathode Ray Tubes (CRTs) and Electron Microscopes:
 
